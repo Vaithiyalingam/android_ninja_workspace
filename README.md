@@ -10,7 +10,7 @@
 - Home Page
 
 **Scope of work**
-- User should be able to see the Users list shoudl be loaded from the Users List API
+- User should be able to see the Users list loaded from the Users List API
 - User should be able to see next set of users list when clicked on Load More button.
  
 
