@@ -16,7 +16,7 @@
 
 **API Details**
 
-1. Users Listing API - GET - https://reqres.in/api/users?page=1
+1. Users Listing API - GET - https://reqres.in/api/users?per_page=12&page=1
 
 _Sample Response_
 ```
