@@ -11,12 +11,13 @@
 
 **Scope of work**
 - User should be able to see the Users list shoudl be loaded from the Users List API
+- User should be able to see next set of users list when clicked on Load More button.
  
 
 
 **API Details**
 
-1. Users Listing API - GET - https://reqres.in/api/users?per_page=12&page=1
+1. Users Listing API - GET - https://reqres.in/api/users?per_page=6&page=1
 
 _Sample Response_
 ```
