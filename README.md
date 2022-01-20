@@ -43,7 +43,7 @@ _Sample Response_
 }
 ```
 
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/5dfbcd9789e5ec3722df?action=collection%2Fimport)
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/693967-8fe2ef09-b857-4153-92d7-1ce0dcf4ed96?action=collection%2Ffork&collection-url=entityId%3D693967-8fe2ef09-b857-4153-92d7-1ce0dcf4ed96%26entityType%3Dcollection%26workspaceId%3Db66a50db-5f82-40ed-aa16-e49d72e7199d)
 
 _APIs made for developers and designers by [Ben Howdle](https://benhowdle.im/)_
 
