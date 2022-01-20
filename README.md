@@ -2,7 +2,7 @@
 
 **Please make sure to go through the below details before cloning the repository**
 
-**Goal**: Dynamic screeen development & Integration, as per the below details
+**Goal**: Dynamic screen development & Integration, as per the below details
 
 **Design Figma URL** - https://www.figma.com/file/YheKLaRPnaj6rYeLbmh9OV/Android-Ninja-Template
 
@@ -10,8 +10,8 @@
 - Home Page
 
 **Scope of work**
-- User should be able to see the Users list loaded from the Users List API
-- User should be able to see next set of users list when clicked on Load More button.
+- User should be able to see the Users list loaded from the Users List API        
+- User should be able to see the next set of users list when clicking on Load More button.
  
 
 
